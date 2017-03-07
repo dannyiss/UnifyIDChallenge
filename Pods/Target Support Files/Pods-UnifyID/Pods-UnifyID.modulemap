@@ -1,0 +1,6 @@
+framework module Pods_UnifyID {
+  umbrella header "Pods-UnifyID-umbrella.h"
+
+  export *
+  module * { export * }
+}
